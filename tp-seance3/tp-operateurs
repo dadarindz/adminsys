@@ -1,0 +1,2 @@
+# Seance 3 - bob peut redemarrer cron, et rien d'autre
+bob ALL=(root) /usr/bin/systemctl restart cron
